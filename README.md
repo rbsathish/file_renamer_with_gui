@@ -1,5 +1,5 @@
 # file_renamer_with_gui
-using this tool u can rename your files from the selected directory. It will be useful for your ML dataset preparations and anyother uses 
+using this tool u can rename your files from the selected directory. It will be useful for the ML dataset preparations and for ur own uses. 
 Eg. Frame_1, Image_1, frame1, image1, image_21, image_111
 
 First run the python code run.py
