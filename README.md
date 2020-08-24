@@ -12,6 +12,7 @@ Step 1:
 
 ![image](Basic_UI.png)
 
+![alt text](https://github.com/rbsathish/file_renamer_with_gui/blob/master/image/Basic_UI.PNG)
 
 Step 2:
 
