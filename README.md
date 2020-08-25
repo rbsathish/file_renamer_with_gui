@@ -1,10 +1,10 @@
 # file_renamer_with_gui
-using this tool u can rename your files from the selected directory. It will be useful for the ML dataset preparations and for ur own uses. 
+using this tool you can rename all your files from the selected directory at a time. It will be useful for the ML dataset preparations and for ur own uses. 
 Eg. Frame_1, Image_1, frame1, image1, image_21, image_111
 
-First run the python code run.py
-Before runing python code activate the virtual env 
-Later i will upload the direct exe for win 10
+First, run the python code run.py 
+Before running python code activate the virtual env 
+Later I will upload the direct exe for win 10
 
 Step 1:
 
