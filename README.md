@@ -3,7 +3,9 @@ using this tool you can rename all your files from the selected directory at a t
 Eg. Frame_1, Image_1, frame1, image1, image_21, image_111
 
 Download the Rename.exe and run directly.
- Or
+
+Or
+ 
 Run the python code run.py from the src folder. Before running python code activate the virtual env.
 
 
